@@ -1,0 +1,15 @@
+akira.num_say_show_2L_SD-ID_asc_OFF1_num.json
+akira.num_say_2L_SD-ID_asc_OFF1_num.json
+akira.num_say_show_2L_SD-ID_des_OFF1_num.json
+akira.num_say_2L_SD-ID_des_OFF1_num.json
+akira.num_say_show_2L_SD-ID_rand_OFF1_num.json
+akira.num_say_2L_SD-ID_rand_OFF1_num.json
+akira.num_say_show_3L_DD-ID_asc_OFF10_num.json
+akira.num_say_3L_DD-ID_asc_OFF10_num.json
+akira.num_say_show_3L_DD-ID_des_OFF10_num.json
+akira.num_say_3L_DD-ID_des_OFF10_num.json
+akira.num_say_show_3L_DD-ID_rand_OFF10_num.json
+akira.num_say_3L_DD-ID_rand_OFF10_num.json
+akira.num_say_show_3L_DD-ID_asc_OFFW10_num.json
+akira.num_say_3L_DD-ID_asc_OFFW10_num.json
+akira.num_say_show_3L_DD-ID_des_OFFW10_num.json
